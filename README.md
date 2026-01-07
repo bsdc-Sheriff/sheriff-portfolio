@@ -29,6 +29,3 @@ Features
 - **JavaScript (Vanilla)**  
 - Responsive design principles  
 - GitHub Pages and Netlify for hosting 
-
-
-## 📁 Project Structure
